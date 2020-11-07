@@ -4,7 +4,6 @@ body {
   justify-content: center;
   align-items: center;
   font-family: "JetBrains Mono", sans-serif;
-
 }
 
 .box {
@@ -21,22 +20,22 @@ input {
   height: 50px;
   font-size: 38px;
   color: #00fffa;
-  background: #275E66;
+  background: #275e66;
   border: #49b4c4;
 }
 
 .btn {
   margin: 9px;
-  width: 259px;
+  width: 252px;
   height: 50px;
   font-size: 25px;
-  color: #E4F2FD;
-  background: #5F99A2;
-  cursor:pointer;
+  color: #e4f2fd;
+  background: #5f99a2;
+  cursor: pointer;
 }
 
 .btn:hover {
-  background-color: #195E19;
+  background-color: #19425e;
   color: #00fffa;
 }
 #out {
@@ -49,16 +48,20 @@ input {
 }
 
 input[placeholder] {
-    font-size: 35px;
+  font-size: 35px;
 }
-input::-moz-placeholder     {font-size: 25px;}
-input:-moz-placeholder      {font-size: 25px;}
-input:-ms-input-placeholder {font-size: 25px;}
+input::-moz-placeholder {
+  font-size: 25px;
+}
+input:-moz-placeholder {
+  font-size: 25px;
+}
+input:-ms-input-placeholder {
+  font-size: 25px;
+}
 
 h1 {
   font-size: 42px;
-  color: #275E66;
+  color: #275e66;
   margin: 25px 8px;
 }
-
-
