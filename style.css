@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "JetBrains Mono";
-  src: url("/Fonts/JetBrainsMono-Regular.eot");
-  src: url("/Fonts/JetBrainsMono-Regular.eot.eot?#iefix")
+  src: url("/fonts/JetBrainsMono-Regular.eot");
+  src: url("/fonts/JetBrainsMono-Regular.eot.eot?#iefix")
       format("embedded-opentype"),
-    url("/Fonts/JetBrainsMono-Regular.woff") format("woff"),
-    url("/Fonts/JetBrainsMono-Regular.woff2") format("woff2"),
-    url("/Fonts/JetBrainsMono-Regular.ttf") format("truetype");
+    url("/fonts/JetBrainsMono-Regular.woff") format("woff"),
+    url("/fonts/JetBrainsMono-Regular.woff2") format("woff2"),
+    url("/fonts/JetBrainsMono-Regular.ttf") format("truetype");
   font-style: normal;
   font-weight: normal;
 }
