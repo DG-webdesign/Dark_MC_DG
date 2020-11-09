@@ -39,6 +39,7 @@ input {
   color: #00fffa;
   background: #275e66;
   border: #49b4c4;
+  border-radius: 4px;
 }
 
 .btn {
@@ -50,6 +51,7 @@ input {
   background: rgb(19, 140, 129);
   cursor: pointer;
   font-family: 'Fjalla One', sans-serif;
+  border-radius: 4px;
 }
 
 .btn:hover {
