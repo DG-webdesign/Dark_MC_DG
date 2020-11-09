@@ -19,7 +19,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-family: "JetBrains Mono", Helvetica, sans-serif;
+  font-family: 'Fjalla One', sans-serif;
 }
 
 .box {
@@ -35,7 +35,7 @@ input {
   width: 250px;
   height: 50px;
   font-size: 38px;
-  font-family: "JetBrains Mono", Helvetica, sans-serif;
+  font-family: 'Fjalla One', sans-serif;
   color: #00fffa;
   background: #275e66;
   border: #49b4c4;
@@ -49,7 +49,7 @@ input {
   color: #e4f2fd;
   background: #5f99a2;
   cursor: pointer;
-  font-family: "JetBrains Mono", Helvetica, sans-serif;
+  font-family: 'Fjalla One', sans-serif;
 }
 
 .btn:hover {
