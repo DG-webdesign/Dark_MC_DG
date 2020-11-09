@@ -32,7 +32,7 @@ body {
 
 input {
   margin: 9px;
-  width: 250px;
+  width: 240px;
   height: 50px;
   font-size: 38px;
   font-family: 'Fjalla One', sans-serif;
@@ -43,7 +43,7 @@ input {
 
 .btn {
   margin: 9px;
-  width: 252px;
+  width: 242px;
   height: 50px;
   font-size: 25px;
   color: #e4f2fd;
@@ -80,6 +80,7 @@ input:-ms-input-placeholder {
 
 h1 {
   font-size: 42px;
+  letter-spacing: 7px;
   color: #275e66;
   margin: 25px 8px;
 }
