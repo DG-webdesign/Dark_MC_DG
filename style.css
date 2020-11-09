@@ -47,7 +47,7 @@ input {
   height: 50px;
   font-size: 25px;
   color: #e4f2fd;
-  background: #5f99a2;
+  background: rgb(19, 140, 129);
   cursor: pointer;
   font-family: 'Fjalla One', sans-serif;
 }
@@ -83,4 +83,25 @@ h1 {
   letter-spacing: 7px;
   color: #275e66;
   margin: 25px 8px;
+}
+
+::-webkit-input-placeholder {
+  color: rgb(23, 177, 166);
+  font-family: "Fjalla One", sans-serif;
+  font-size: 22px;
+}
+::-moz-placeholder {
+  color: rgb(23, 177, 166);
+  font-family: "Fjalla One", sans-serif;
+  font-size: 22px;
+}
+:-ms-input-placeholder {
+  color: rgb(23, 177, 166);
+  font-family: "Fjalla One", sans-serif;
+  font-size: 22px;
+}
+:-moz-placeholder {
+  color: rgb(23, 177, 166);
+  font-family: "Fjalla One", sans-serif;
+  font-size: 22px;
 }
